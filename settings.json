@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Imnoobbot",
+    "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "StrikerSmp.aternos.me",
+    "ip": "basenji.aternos.host",
     "port": 11123,
     "version": "",
     "try-creative": false
@@ -16,7 +16,7 @@
     "x": 0,
     "y": 100,
     "z": 0
-  },
+ },
   "utils": {
     "auto-auth": {
       "enabled": true,
