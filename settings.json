@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kingdom-FUaz.aternos.me",
-    "port": 19271,
+    "ip": "StrikerSmp.aternos.me",
+    "port": 11123,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
