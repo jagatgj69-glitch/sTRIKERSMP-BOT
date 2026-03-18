@@ -9,7 +9,7 @@
     "ip": "StrikerSmp.aternos.me",
     "port": 11123,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
