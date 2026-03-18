@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "ImBotfromReal",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "StrikerSmp.aternos.me",
     "port": 11123,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
